@@ -1,0 +1,12 @@
+Amount of tasks genrated and tracked : 6
+
+Amount completed : 2
+
+Amount incomplete : 4
+
+Amount incomplete and overdue : 4
+
+Percentage incomplete : % 66.67
+
+Percentage overdue : % 66.67
+

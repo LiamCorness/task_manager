@@ -1,0 +1,37 @@
+Users Registered : 6 
+
+Amount of tasks generated and tracked : 6
+
+
+admin has : 2 tasks
+
+brian has : 1 tasks
+
+brianbadongy has : 3 tasks
+
+
+admin has : % 33.33 of the tasks
+
+brian has : % 16.67 of the tasks
+
+brianbadongy has : % 50.0 of the tasks
+
+
+brianbadongy has completed : % 66.67 of their tasks
+
+
+admin needs to complete : % 100.0 of their tasks
+
+brian needs to complete : % 100.0 of their tasks
+
+brianbadongy needs to complete : % 33.33 of their tasks
+
+
+% 100.0 of admin's tasks are overdue
+
+% 100.0 of brian's tasks are overdue
+
+% 33.33 of brianbadongy's tasks are overdue
+
+
+        
